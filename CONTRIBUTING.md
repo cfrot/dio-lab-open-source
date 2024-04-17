@@ -54,7 +54,7 @@
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: testing FUNCIONALITYNAME`
 
 ## Desafios Git e GitHub
-- [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+- [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s).
 
 
 ## Referências
